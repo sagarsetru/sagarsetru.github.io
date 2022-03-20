@@ -1,3 +1,8 @@
+
+My name is Sagar Setru. I am a scientist with broad and ever growing interests: statistics and machine learning, biology, physics, human health, and cryptocurrency are areas where I have worked, studied, and built, either profressionally or as a hobby.
+
+This webpage is under construction. You can see my academic work at [Google Scholar](https://scholar.google.com/citations?user=1GEQv5gAAAAJ&hl=en) and my professional history on [LinkedIn](https://www.linkedin.com/in/sagar-setru/).
+<!---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sagarsetru/sagarsetru.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +40,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+-->
