@@ -8,10 +8,14 @@ You can see my published academic work at [Google Scholar](https://scholar.googl
 
 I made a Chrome extension, [Debiaser](https://github.com/sagarsetru/debiaser_chrome_extension), that recommends news articles related to the one you are reading, but from news sources across the political spectrum. It's for curious consumers of news who value diverse perspectives.
 
-### Selected academic papers
+### Selected academic works
 
 [Acentrosomal spindles assemble from branching microtubule nucleation near chromosomes](https://www.biorxiv.org/content/10.1101/2022.02.28.482415v1)
 
 [A hydrodynamic instability drives protein droplet formation on microtubules to nucleate branches](https://www.nature.com/articles/s41567-020-01141-8) ([Press coverage](https://www.princeton.edu/news/2021/01/29/dewdrops-spiderweb-reveal-physics-behind-cell-structures#:~:text=The%20physics%20at%20work%20in,a%20role%20in%20some%20cancers.))
+
+[The role of hydrodynamics in branching microtubule nucleation and the role of branching microtubule nucleation in acentrosomal spindle assembly](https://dataspace.princeton.edu/handle/88435/dsp01j6731683k) (PhD thesis)
+
+[Silicon Detector (SiD) Tracking Geometry Optimization Studies for the ILC](https://github.com/sagarsetru/detectorOptimizationStudy/blob/master/detOptimization4.pdf)
 
 [Active drift stabilization in three dimensions via image cross-correlation](https://aip.scitation.org/doi/abs/10.1063/1.4824197)
