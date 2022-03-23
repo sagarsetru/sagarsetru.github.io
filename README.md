@@ -6,7 +6,7 @@ You can see my published academic work at [Google Scholar](https://scholar.googl
 
 ### Products
 
-I made a Chrome extension, [Debiaser](https://github.com/sagarsetru/debiaser_chrome_extension), that recommends news articles related to the one you are reading, but from news sources across the political spectrum. It's for curious consumers of news who value diverse perspectives.
+I made a Chrome extension, [Debiaser](https://github.com/sagarsetru/debiaser_chrome_extension), that recommends news articles related to the one you are reading, but from news sources across the political spectrum. It's for curious consumers of news who value diverse perspectives. I plan to publish it to the Chrome web store.
 
 ### Selected academic works
 
