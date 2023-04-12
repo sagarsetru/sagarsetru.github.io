@@ -8,6 +8,10 @@ You can see my published academic work at [Google Scholar](https://scholar.googl
 
 I made a Chrome extension, [Debiaser](https://github.com/sagarsetru/debiaser_chrome_extension), that recommends news articles related to the one you are reading, but from news sources across the political spectrum. It's for curious consumers of news who value diverse perspectives. At the moment, you have to download it locally to use it, but I plan to list it at the Chrome web store.
 
+### Tutoring
+
+I work with select high school students interested in doing independent and interdisciplinary scientific projects related to machine learning, physics, and biology. I can also tutor for these and related subjects, as well as for standardized tests. If interested, reach out at sagar setru 2 at gmail dot com, no spaces, to discuss potential projects.
+
 ### Selected academic works
 
 [Acentrosomal spindles assemble from branching microtubule nucleation near chromosomes](https://www.biorxiv.org/content/10.1101/2022.02.28.482415v1)
