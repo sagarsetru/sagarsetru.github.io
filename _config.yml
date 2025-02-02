@@ -1,7 +1,7 @@
 # _config.yml
 title: "Sagar Setru"
 # description: "My personal website"
-theme: jekyll-theme-hacker
+theme: no-style-please
 show_edit_on_github: false
 edit_links: false
 edit_url: false
