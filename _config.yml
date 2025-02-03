@@ -2,9 +2,7 @@
 title: "Sagar Setru"
 # description: "My personal website"
 
-# Use the single-column Modernist theme
-remote_theme: pages-themes/midnight@v0.2.0
-
+remote_theme: dsusca/no-style-please
 plugins:
   - jekyll-remote-theme
 
