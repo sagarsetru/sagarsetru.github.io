@@ -2,7 +2,7 @@
 title: "Sagar Setru"
 # description: "My personal website"
 
-remote_theme: dsusca/no-style-please
+remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-remote-theme
 
