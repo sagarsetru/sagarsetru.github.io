@@ -1,4 +1,4 @@
-### About me
+### About Sagar
 
 I am a scientist with broad and ever growing interests. Physics, biology, machine learning, drug development, marketing, and crypto are areas where I have variously done research, worked, and built, sometimes professionally or academically, and other times as a hobbyist. I enjoy working with data, designing and conducting experiments, and using machine learning to help people and solve business and scientific problems. Always be learning.
 
