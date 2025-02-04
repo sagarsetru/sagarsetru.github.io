@@ -19,3 +19,16 @@ I made a Chrome extension, [Debiaser](https://github.com/sagarsetru/debiaser_chr
 [Silicon Detector (SiD) Tracking Geometry Optimization Studies for the ILC](https://github.com/sagarsetru/detectorOptimizationStudy/blob/master/detOptimization4.pdf)
 
 [Active drift stabilization in three dimensions via image cross-correlation](https://aip.scitation.org/doi/abs/10.1063/1.4824197)
+
+### Learning 
+
+The best way to learn is to do, build, or teach. That said, I plan to update this section of my webpage with a longer list of the various resources I've used over the years that I found great for learning.
+
+I'm a fan of Coursera. Here are the courses I've completed:
+
+- Essential Causal Inference Techniques for Data Science  
+- Deep Neural Networks with PyTorch  
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization  
+- AI for Medical Prognosis  
+- Drug Development  
+- Neural Networks and Deep Learning  
