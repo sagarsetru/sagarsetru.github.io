@@ -1,6 +1,6 @@
 ### About Sagar
 
-I am a scientist with broad and growing interests. Physics, biology, machine learning, drug development, marketing, and crypto are areas where I have done research, worked, and built. Sometimes this is professionally or academically. Other times it was as a hobbyist. I enjoy working with data, designing and conducting experiments, and using machine learning and artificial intellligence to help people and solve business and scientific problems. Always be learning.
+I am a scientist with broad and growing interests. Physics, biology, machine learning, artificial intelligence, drug development, marketing, and crypto are areas where I have done research, worked, and built. Sometimes this is professionally or academically. Other times it is as a hobbyist. I enjoy working with data, designing and conducting experiments, and using machine learning and artificial intellligence to help people and solve business and scientific problems. Always be learning.
 
 You can see my published academic work at [Google Scholar](https://scholar.google.com/citations?user=1GEQv5gAAAAJ&hl=en), code repositories for various projects at [GitHub](https://github.com/sagarsetru), and my professional and academic history at [LinkedIn](https://www.linkedin.com/in/sagar-setru/).
 
